@@ -16,7 +16,7 @@ Para `CADASTRAR` um item no banco de dados:
 {
 description: string,
 value: double,
-type: char ('P' OU 'S')
+type: char 
 }
 
 Para `BUSCAR` todos os itens no banco de dados:
